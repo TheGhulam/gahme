@@ -1,4 +1,8 @@
-### Hi there 👋
+## About me
+I'm a CS student currently studying in Bilkent University
+
+## Links
+[Linkedin](https://www.linkedin.com/in/ghulam-ahmed-7a9744198/)
 
 <!--
 **gahme/gahme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
