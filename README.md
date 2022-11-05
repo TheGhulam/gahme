@@ -1,6 +1,6 @@
 ## About me
-I'm a Computer Science student interested in deep learning and cryptography. 
-I have completed a [course](https://coursera.org/verify/BG6FPH3RUZ9X) on Machine Learning and have [specialized](https://coursera.org/verify/specialization/JYBKS8YFFQUG) in Deep Learning.
+I'm a Computer Science student interested in machine learning, blockchain and cyber security. 
+I have [specialized](https://coursera.org/verify/specialization/JYBKS8YFFQUG) in Deep Learning.
 
 ## Links
 [Linkedin](https://www.linkedin.com/in/ghulam-ahmed-7a9744198/)
