@@ -1,5 +1,5 @@
 ## About me
-I'm a Computer Science student interested in machine learning, blockchain and cyber security. 
+I'm a Computer Science student interested in machine learning, blockchain, and web development. 
 I have [specialized](https://coursera.org/verify/specialization/JYBKS8YFFQUG) in Deep Learning.
 
 ## Links
